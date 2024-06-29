@@ -16,7 +16,7 @@
     "dotenv": "^16.4.1",
     "framer-motion": "^11.0.3",
     "mongodb": "^6.3.0",
-    "react": "^18.2.0",
+    "react": "^17.0.0",
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
     "react-material-ui-carousel": "^3.4.2",
